@@ -6,8 +6,7 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
+No sé qué estoy haciendo
 # Header 1
 ## Header 2
 ### Header 3
@@ -29,4 +28,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Support or Contact
 
 Do you want to support the project? 
-Soon you will be able to follow us in the social media. 
+##Soon you will be able to follow us in the social media. 
