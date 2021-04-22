@@ -3,7 +3,6 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 No sé qué estoy haciendo
@@ -27,5 +26,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support or Contact
 
-Do you want to support the project? 
-Soon you will be able to follow us in the social media. 
+Do you want to support the project?
+
+Soon you will be able to follow us in the social media.
