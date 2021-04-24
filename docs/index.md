@@ -5,7 +5,7 @@
 
 
 ```markdown
-No sé qué estoy haciendo
+Two bold realties es un juego siendo creado por Utopical games, definitivamente, tu estudio preferido ;).
 # Header 1
 ## Header 2
 ### Header 3
