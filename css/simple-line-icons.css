@@ -352,7 +352,7 @@
   content: "\e024";
 }
 .icon-chemistry:before {
-  content: "\e026";
+  content: url("../images/aaaaaaaaaaaaaaaaa.jpg");
 }
 .icon-speedometer:before {
   content: "\e007";

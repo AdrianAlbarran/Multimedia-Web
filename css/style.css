@@ -362,7 +362,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none !important;
 }
 
-#fh5co-services, #fh5co-testimony, #fh5co-explore, #fh5co-faq, #fh5co-team, #fh5co-trusted, #fh5co-footer {
+#fh5co-services, #fh5co-testimony, #fh5co-explore, #fh5co-faq, #fh5co-team, #fh5co-trusted, #fh5co-footer, #fh5co-video {
   padding: 5em 0;
 }
 @media screen and (max-width: 768px) {
@@ -662,6 +662,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding: 30px;
   padding-top: 5em;
+  padding-bottom: 5em;
   background: #fff;
   float: left;
   width: 100%;
@@ -751,7 +752,7 @@ h1, h2, h3, h4, h5, h6 {
 .section-heading {
   float: left;
   width: 100%;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
   margin-bottom: 0px;
   clear: both;
 }
@@ -1211,3 +1212,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.fh5co-video {
+  padding: 4em 0 6em 0;
+  background: #f1faff;
+
+}
