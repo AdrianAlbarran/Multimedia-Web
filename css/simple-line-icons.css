@@ -61,7 +61,7 @@
 .icon-cursor,
 .icon-cursor-move,
 .icon-crop,
-.icon-chemistry,
+.icon-start,
 .icon-speedometer,
 .icon-shield,
 .icon-screen-tablet,
@@ -211,7 +211,7 @@
   content: "\e005";
 }
 .icon-people:before {
-  content: "\e001";
+  content: url("../images/Icono_3.png");
 }
 .icon-user-female:before {
   content: "\e000";
@@ -319,7 +319,7 @@
   content: "\e010";
 }
 .icon-screen-desktop:before {
-  content: "\e011";
+  content: url("../images/Icono_6.png");
 }
 .icon-plane:before {
   content: "\e012";
@@ -334,7 +334,7 @@
   content: "\e015";
 }
 .icon-magnet:before {
-  content: "\e016";
+  content: url("../images/Icono_4.png");
 }
 .icon-energy:before {
   content: "\e020";
@@ -351,8 +351,8 @@
 .icon-crop:before {
   content: "\e024";
 }
-.icon-chemistry:before {
-  content: url("../images/aaaaaaaaaaaaaaaaa.jpg");
+.icon-start:before {
+  content: url(../images/Icono_1.png);
 }
 .icon-speedometer:before {
   content: "\e007";
@@ -670,7 +670,7 @@
   content: "\e093";
 }
 .icon-paper-plane:before {
-  content: "\e094";
+  content: url("../images/Icono_5.png");
 }
 .icon-power:before {
   content: "\e097";

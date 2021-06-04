@@ -1,3 +1,10 @@
+@import url("../webfonts/FontWeb/stylesheet.css");
+@import url("../webfonts/FontWeb/stylesheet.css");
+@import url("../webfonts/FontWeb/stylesheet.css");
+@import url("../webfonts/FontWeb/stylesheet.css");
+
+
+
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
@@ -311,11 +318,13 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 #fh5co-home .text-inner h1 {
-  font-size: 38px;
-  text-transform: uppercase;
-  color: white;
-  margin: 0 0 20px 0;
-  font-weight: 700;
+    font-size: 38px;
+    text-transform: uppercase;
+    color: white;
+    margin: 0 0 20px 0;
+    font-weight: 700;
+    font-style: normal;
+    font-family: FontWeb;
 }
 #fh5co-home .text-inner h2 {
   font-size: 20px;
@@ -757,14 +766,15 @@ h1, h2, h3, h4, h5, h6 {
   clear: both;
 }
 .section-heading h2 {
-  margin: 0 0 0 0;
-  font-size: 40px;
-  font-weight: 400;
-  color: #333;
-  position: relative;
-  display: block;
-  padding-bottom: 10px;
-  line-height: 1.5;
+    margin: 0 0 0 0;
+    font-size: 40px;
+    font-weight: 400;
+    color: #333;
+    position: relative;
+    display: block;
+    padding-bottom: 10px;
+    line-height: 1.5;
+    font-family: FontWeb;
 }
 @media screen and (max-width: 768px) {
   .section-heading h2 {
